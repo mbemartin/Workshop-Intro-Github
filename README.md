@@ -2,3 +2,6 @@
 Workshop repository for Intro GitHub session
 Nov. 1, 2023
 
+Collaborating with Version Control on GitHub 
+Nov 8, 2023
+
